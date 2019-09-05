@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f12310e-d64c-43ff-9889-18951d6c4d0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TencentTest/src/_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/_004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/dArrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/fall2017_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/fall2017_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/fall2017_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/qiu2017_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/summer2017_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/summer2017_1p.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/summer2017_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/summer2017_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/y2016_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tencet/src/y2016_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2016_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2016_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_2016_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inputData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj005c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oj18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ojCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ojCombinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ojMuiltyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ojNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sequence/src/_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sequence/src/_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sequence/src/_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../long/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../long/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/dao/CommentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/dao/HistoryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/dao/MovieDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/dao/MovieListDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/dao/impl/CommentDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/dao/impl/HistoryDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/dao/impl/MovieDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/dao/impl/MovieListDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/dao/impl/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/pojo/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/pojo/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/pojo/MovieList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/service/CommentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/service/HistoryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/service/MovieListService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/service/MovieService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/util/databaseUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/classes/util/recommendUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/annotations-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/catalina-ant.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/catalina-ha.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/catalina-storeconfig.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/catalina-tribes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/catalina.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/ecj-4.7.3a.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/el-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/jasper-el.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/jasper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/jaspic-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/jsp-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/servlet-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/tomcat-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/tomcat-coyote.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/tomcat-dbcp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/tomcat-jdbc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/tomcat-jni.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/tomcat-util-scan.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/tomcat-util.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/tomcat-websocket.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/lib/websocket-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/js/canvas-nest.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/js/jquery-1.4.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/jsp/detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/bigLeef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/branch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/centerBranch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/flower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/idiot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/leef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/leftBranch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/20121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/20122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/V字仇杀队1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/V字仇杀队2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/一出好戏1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/一出好戏2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/七月与安生1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/七月与安生2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/三傻大闹宝莱坞1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/三傻大闹宝莱坞2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/云图1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/云图2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/人在囧途1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/人在囧途2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/你的名字1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/你的名字2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/初恋这件小事1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/初恋这件小事2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/剪刀手爱德华1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/剪刀手爱德华2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/功夫1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/功夫2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/动物世界1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/动物世界2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/叶问1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/叶问2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/后天1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/后天2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/呼吸1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/呼吸2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/哥斯拉1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/哥斯拉2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/唐山大地震1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/唐山大地震2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/喜剧之王1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/喜剧之王2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/夏洛特烦恼1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/夏洛特烦恼2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/天使爱美丽1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/天使爱美丽2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/头号玩家1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/头号玩家2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/她1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/她2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/孤儿怨1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/孤儿怨2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/安德的游戏1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/安德的游戏2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/寂静之地1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/寂静之地2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/寻梦环游记1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/寻梦环游记2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/小偷家族1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/小偷家族2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/影1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/影2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/志明与春娇1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/志明与春娇2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/快把我哥带走1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/快把我哥带走2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/怦然心动1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/怦然心动2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/悲伤逆流成河1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/悲伤逆流成河2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/情书1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/情书2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/我不是药神1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/我不是药神2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/招魂1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/招魂2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/无名之辈1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/无名之辈2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/无问西东1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/无问西东2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/星际穿越1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/星际穿越2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/暮光之城1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/暮光之城2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/林中小屋1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/林中小屋2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/毒液：致命守护者1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/毒液：致命守护者2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/泰坦尼克号1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/泰坦尼克号2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/流感1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/流感2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/深海狂鲨1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/深海狂鲨2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/爱1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/爱2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/独立日1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/独立日2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/盗梦空间1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/盗梦空间2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/第九区1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/第九区2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/美丽人生1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/美丽人生2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/肖申克的救赎1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/肖申克的救赎2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/自由广场1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/自由广场2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/蝴蝶效应1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/蝴蝶效应2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/让子弹飞1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/让子弹飞2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/超体1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/超体2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/超时空同居1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/超时空同居2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/这个杀手不太冷1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/这个杀手不太冷2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/速度与激情1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/速度与激情2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/釜山行1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/釜山行2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/阳光姐妹淘1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/阳光姐妹淘2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/阿凡达1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/阿凡达2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/阿甘正传1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/阿甘正传2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/阿黛尔的生活1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/阿黛尔的生活2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/雪国列车1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/雪国列车2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/风吹麦浪1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/风吹麦浪2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/黑暗中的舞者1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/poster/黑暗中的舞者2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/rightBranch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/tengman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/true.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/vine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/vinewall.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/wall.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/wall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/wallpaper1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/WebContent/resources/img/walls.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieRecommand/index.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oj18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oj019.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ojCombinString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oj007.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ojMuiltyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ojCalculate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ojNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/_002.java" />
+        <option value="$PROJECT_DIR$/src/_003.java" />
+        <option value="$PROJECT_DIR$/src/_001.java" />
+        <option value="$PROJECT_DIR$/src/_004.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/_005.java" />
+        <option value="$PROJECT_DIR$/src/inputData" />
+        <option value="$PROJECT_DIR$/src/_2016_1.java" />
+        <option value="$PROJECT_DIR$/src/_2016_2.java" />
+        <option value="$PROJECT_DIR$/src/_2016_3.java" />
+        <option value="$PROJECT_DIR$/src/oj004.java" />
+        <option value="$PROJECT_DIR$/src/oj005.java" />
+        <option value="$PROJECT_DIR$/src/oj005c.java" />
+        <option value="$PROJECT_DIR$/src/oj006.java" />
+        <option value="$PROJECT_DIR$/src/oj007.java" />
+        <option value="$PROJECT_DIR$/src/oj008.java" />
+        <option value="$PROJECT_DIR$/src/oj009.java" />
+        <option value="$PROJECT_DIR$/src/oj010.java" />
+        <option value="$PROJECT_DIR$/src/oj011.java" />
+        <option value="$PROJECT_DIR$/src/oj016.java" />
+        <option value="$PROJECT_DIR$/src/oj18.java" />
+        <option value="$PROJECT_DIR$/src/oj019.java" />
+        <option value="$PROJECT_DIR$/src/ojCombinString.java" />
+        <option value="$PROJECT_DIR$/src/ojMuiltyThread.java" />
+        <option value="$PROJECT_DIR$/src/ojCalculate.java" />
+        <option value="$PROJECT_DIR$/src/ojNode.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="705" />
+    <option name="y" value="50" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="huaWei" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huaWei" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554889366547" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.findbugs.project" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ojNode">
+    <configuration name="oj019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj019" />
+      <module name="huaWei" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oj18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oj18" />
+      <module name="huaWei" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ojCalculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ojCalculate" />
+      <module name="huaWei" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ojCombinString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ojCombinString" />
+      <module name="huaWei" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ojNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ojNode" />
+      <module name="huaWei" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ojNode" />
+        <item itemvalue="Application.ojCalculate" />
+        <item itemvalue="Application.ojCombinString" />
+        <item itemvalue="Application.oj019" />
+        <item itemvalue="Application.oj18" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f12310e-d64c-43ff-9889-18951d6c4d0e" name="Default Changelist" comment="" />
+      <created>1552955999159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552955999159</updated>
+      <workItem from="1552956003335" duration="3652000" />
+      <workItem from="1552959870010" duration="3705000" />
+      <workItem from="1553078837532" duration="1125000" />
+      <workItem from="1553083949850" duration="2864000" />
+      <workItem from="1553397940412" duration="72000" />
+      <workItem from="1554390337555" duration="1781000" />
+      <workItem from="1554425340157" duration="24000" />
+      <workItem from="1554426170421" duration="3078000" />
+      <workItem from="1554528553182" duration="5669000" />
+      <workItem from="1554625813156" duration="6036000" />
+      <workItem from="1554639437914" duration="6765000" />
+      <workItem from="1554686805727" duration="3151000" />
+      <workItem from="1554772677468" duration="3177000" />
+      <workItem from="1554784319120" duration="597000" />
+      <workItem from="1554793708814" duration="6251000" />
+      <workItem from="1554810887268" duration="7334000" />
+      <workItem from="1554857250916" duration="3090000" />
+      <workItem from="1554867491897" duration="332000" />
+      <workItem from="1554889353341" duration="25000" />
+      <workItem from="1554889483973" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58787000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32171583" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3101983" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_003.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_004.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_005.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oj18.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oj019.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ojCalculate.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="42" column="41" lean-forward="true" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+          <folding>
+            <element signature="e#321#338#0" expanded="true" />
+            <element signature="e#1160#1188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inputData">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#_001#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_005.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_2016_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="40" column="13" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_2016_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_2016_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj005.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj005c.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj006.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj008.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj009.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj010.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj011.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj016.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_64/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="218" column="23" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj019.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ojCombinString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oj007.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ojMuiltyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ojCalculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ojNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
